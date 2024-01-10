@@ -19,7 +19,7 @@ Kaggle Dataset Link: https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 Link for downloading dataset: https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/download?datasetVersionNumber=6
 
 Link to my code in Kaggle: https://www.kaggle.com/datasets/danieldarbekov/data-science-jobs-and-salary-analysis/code?datasetId=4286850&sortBy=dateRun&tab=profile
-
+![image](https://github.com/Funiel298/Data-Science-Jobs-and-Salary-Analysis/assets/91716291/97efed73-bd9b-403f-9ae5-7aadba16ca66)
 ## About Dataset
 ```markdown
 RangeIndex: 9355 entries, 0 to 9354
@@ -45,4 +45,4 @@ memory usage: 877.2+ KB
 
 This project is licensed under the [MIT License](LICENSE).
 
-![image](https://github.com/Funiel298/Data-Science-Jobs-and-Salary-Analysis/assets/91716291/97efed73-bd9b-403f-9ae5-7aadba16ca66)
+
