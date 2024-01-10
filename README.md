@@ -1,9 +1,23 @@
 # Data-Science-Jobs-and-Salary-Analysis
 
+## Description
+
+This Analysis about a few things like:
+1) Correlation between salaries and experience level
+2) Distribution of data science jobs across different company locations
+3) Most Common Data Science Job Titles and Categories
+4) Trends in job titles and categories over the years
+5) Distribution of employment types and work settings
+6) How company size correlates with salaries and job roles
+7) How the data science job market has evolved over the years
+8) Building predictive model to estimate salaries based on various features in the dataset like experience level, company's location, company's size and others.
 
 ## Links
+
 Kaggle Dataset Link: https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
+
 Link for downloading dataset: https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/download?datasetVersionNumber=6
+
 Link to my code in Kaggle: https://www.kaggle.com/datasets/danieldarbekov/data-science-jobs-and-salary-analysis/code?datasetId=4286850&sortBy=dateRun&tab=profile
 
 ## About Dataset
@@ -27,11 +41,8 @@ Data columns (total 12 columns):
 dtypes: int64(3), object(9)
 memory usage: 877.2+ KB
 
-![image](https://github.com/Funiel298/Data-Science-Jobs-and-Salary-Analysis/assets/91716291/97efed73-bd9b-403f-9ae5-7aadba16ca66)
-
-
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![image](https://github.com/Funiel298/Data-Science-Jobs-and-Salary-Analysis/assets/91716291/97efed73-bd9b-403f-9ae5-7aadba16ca66)
